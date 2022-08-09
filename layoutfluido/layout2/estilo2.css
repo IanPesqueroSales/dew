@@ -1,0 +1,57 @@
+#tudo {
+    width: 100%; border: 5px solid black;
+    background-color: aqua;
+    float: left;
+}
+header {
+    height: 200px;
+    width:45%;
+    background-color: blue;
+    clear: right;
+    float: left;
+    margin-left: 4%;
+    margin-top: 1%;
+}
+nav {
+    width: 45%;
+    height: 200px;
+    background-color: red;
+    float: right;
+    margin-right: 4%;
+    margin-top: 1%;
+}
+main {
+    width: 92%;
+    height: 500px;
+    background-color: green;
+    float: left;
+    margin-left: 4%;
+    margin-top: 1%;
+}
+section {
+    width: 24%;
+    height: 500px;
+}
+#um {
+    background-color: blueviolet;
+    float: left;
+    margin-left: 6.9%;
+}
+#dois {
+    background-color: chocolate;
+    float: left;
+    margin-left: 6.9%;
+}
+#tres {
+    background-color: darkred;
+    float: left;
+    margin-left: 6.9%;
+}
+footer {
+    width: 92%;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+    margin-left: 4%;
+    margin-top: 1%;
+}
